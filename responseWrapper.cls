@@ -3,7 +3,8 @@ public class responseWrapper {
     @AuraEnabled Public Boolean isSuccess;
     @AuraEnabled public Object body;
     @AuraEnabled public String type;
-    
+    @AuraEnabbled public Integer patanhi;
+     
     public void setError(String errorMessage)
     {
         this.isSuccess = False;
