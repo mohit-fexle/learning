@@ -1,0 +1,743 @@
+Salesforce 
+	- Global Picklist
+	- Field dependency 
+	- Master-Detail Realtionship
+In progress
+	- Lookup Realtionship
+	- Trailhead module - Build a suggestion box app
+	
+	
+	
+I have made a google drive to post all the "Asssignments" and "Points to remember" regularly. So, Me and Harsh will be posting it on the google drive instead of clogging up the chats. 
+
+
+Salesforce
+	- LookUp Realtionship
+	-Salesforce Admin Lecture By Abhinav Sir 
+	- Assignment 1 
+
+
+Salesforce 
+	- Many to Many Realtionship
+	- Setting up new objects and creating relationships between them
+	- Abhinav Sir Lecture Revision 
+	- Understanding Validation Rules
+	
+31/01/2023
+Salesforce
+	- Abhinav Sir Lecture 
+	- Assignment 2 completed 
+	- Understanding Formula Fields
+	
+1/02/2023
+Trailhead Modules
+	- Admin Intermediate > Formulas and Validation
+						 > Picklist Administration
+						 
+Salesforce
+	- Cross Objeect Formula
+	- LookUp Filter
+	
+	
+	
+	
+Objects
+Tabs
+Fields and Realtionship
+Page Layout
+Formula 
+Validation rules
+Report Types
+Record Types
+	
+
+a092w00001xdJnmAAE
+
+Date -: 2/02/2023
+Trailhead Modules 
+	-Customize a Salesforce Object
+	-Build an Event Registration App
+	
+Salesforce
+	-Organization level security
+	-Object Level Security
+	
+In Progress
+	- Field Level Security 
+	- Build a Data Model for a Recruiting App
+	
+	
+Date-: 3/02/2023
+Trailhead Modules
+	-Build a Data Model for a Recruiting App
+	-Data Security
+	
+Salesforce
+	- Abhinav Sir Lecture number 3
+	- Assignment 3 completed
+	
+In Progress
+	- Data Security
+	
+	
+	
+Secondary UI for editing Profiles settings that Sir was talking about is called Enhanced Profile User Interface.
+You can turn it on using Setup > Quick Find Box > Search for User Management Settings > Enable Enhanced Profile User Interface.
+
+
+Date -: 06/02/2023
+Trailhead Modules 
+	- App Exchange Basics
+	- Approve Records with Approval Processes
+Salesforce
+	- Record-level Security
+	- Creating Formula for currency
+
+
+Date -: 07/02/2023
+Salesforce 
+	- Record-level Security
+	- Public Groups
+	
+Trailhead 
+	- Use External Services With a Flow
+	- Build a Battle Station App
+	- Admin Intermediate Completed
+	- Build Your Personal Portfolio on Salesforce
+	- Chatter Administration for Lightning Experience
+	- Reports & Dashboards for Lightning Experience
+	
+Date -: 08/02/2023
+Salesforce 
+	- Abhinav Sir Class 3 Revision
+	- Implementing Record Level Security
+	- Abhinav Sir Class 4 Attended
+	
+	
+in Progress
+	- Trailhead Module > Customize the User Interface for a Recruiting App
+	
+Date -: 09/02/2023
+Salesforce
+	- Abhinav Sir Session 4 revised
+	- Assignment 4 completed
+	- Permission sets and groups
+	- Delegate Administration
+
+Trailhead Modules
+	- Session-Based Permission Sets and Security
+	- Customize the User Interface for a Recruiting A
+
+
+Date -: 13/02/2023
+Salesforce
+	- Abhinav Sir Session 6 attended
+	- queues
+	- Oraganization Wide Defaults
+Trailhead Modules
+	- Improve Data Quality for a Recruiting App
+	
+	
+Date -: 14/02/2023
+Salesforce
+	- Assignment 5 completed
+	- Abhinav Sir Session 6 revised
+	- Sharing Rules
+Trailhead
+	- Flow Basics
+
+Date - 15/02/2023
+Salesforce
+	- Abhinav sir Session 7 attended
+	- Roles And Subordinatee
+	- Search Layouts
+	- List View
+
+
+Date - 16/02/2023
+Salesforce
+	- Workflows > Field Update
+				> Email
+	- Email Templates
+	- Assignment 7 Completed
+	- Abhinav Sir Session 8 Attended
+	
+	
+Date - 17/02/2023
+Salesforce
+	- Abhinav Sir Session 9 Attended
+	- Outbound messages
+	- Lightning Pages
+	- Chatter
+	
+Salesforce 
+Date 20/02/2023
+	- Abhinav Sir session 9 revised
+	- Paths
+	- Reports
+	- Abhinav Sir session 10 attended
+	
+	
+Date - 21/02/2023
+Salesforce
+	- Session 10 revision
+	- Scoping rules
+	- Data import using data import wizard
+	
+Date - 24/02/2023
+Salesforce
+	- Abhinav Sir session 11 attended
+	- Workflows
+	- Workflow assignment completed
+
+
+Date - 27/02/2023
+Salesforce
+	- Assignment 11 completed
+	- Dashboards
+	- Approval Processes
+	- Abhinav Sir Session 12 attended
+	- Data Import using data loader
+	
+In progress
+	- Matching Rules
+	- Duplicate Rules
+	
+	
+Date - 28/02/2023
+Salesforce
+	- Matching Rules
+	- Duplicate Rules
+	- Custom Label
+	- Custom Settings
+	- Custom Metadata types
+	
+Trailhead modules
+	- Custom Metadata Types
+	- Duplicate Management
+	- Quick Start: Process Builder
+	
+In Progress
+	- Process Builder
+	
+Date - 01/03/2023
+Salesforce
+	- Scoping Rules
+	- Restriction Rules
+	- Process Builder
+	- Data Security Questions
+	- External ID
+	
+Date - 02/03/2023
+Salesforce
+	- Abhinav Sir Session 12 attended
+	- All Topics Revision
+	
+Assignment for next week 
+	Start learning from apex developer guide - https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_dev_guide.htm
+	Complete atleast two modules from this guide 
+		- Getting Started with Apex
+		- Writing Apex
+		
+	After completing these modules you must be able to 
+		- create a apex class 
+		- create a test class
+		- define collections - list, set , map
+		- understand the concept of classes, objects and interfaces
+
+	
+https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_dev_guide.htm
+	
+Date - 03/03/2023
+Salesforce
+	- Admin Revision
+	- Apex Basics
+	- Java OOPS Concept revision
+	
+
+Is it possoble for me to leave at 5 or 5:30 today? because I have a bus to catch at 7 for home.
+
+
+Date - 13/03/2023
+Salesforce
+	- ABhinav Sir Apex Lecture 1 attended
+	- Apex Basics
+	- Sets
+	- Maps
+	
+	
+	
+	
+process(approvalRequest, allOrNone)
+Submits a new approval request and approves or rejects existing approval requests.
+process(approvalRequests)
+Submits a list of new approval requests, and approves or rejects existing approval requests.
+process(approvalRequests, allOrNone)
+Submits a list of new approval requests, and approves or rejects existing approval requests.
+
+
+
+14/03/2023
+Salesforce
+	- Nested Lists
+	- Lists in Maps
+	- Methods of collections
+	
+In progress 
+	- SOQL
+	
+	
+1. Collections -List
+			   -Sets
+			   -Maps
+			   
+2. Soql - Dml Queries
+		- Governor Limits
+
+3. Triggers
+4. Test Class
+
+
+
+15/03/2023
+Salesforce
+	- SOQL in Apex
+	- SOQL Variable Binding
+	- Functions in SOQL
+	- SOQL Keywords
+	
+In progress 
+	- DML Statements
+
+
+16/03/2023
+Salesforce
+	- Child to Parent SOQL Queries
+	- Parent to Child Soql Queries
+	- Multilevel Realtionship Queries
+	- Dml Statements
+	
+17/03/2023
+Salesforce
+	- SOQL questions
+	- Abhinav Sir Session 2 attended
+	- Fexle Hours Session Attended
+	
+In Progress
+	- Apex Triggers
+	
+20/03/2023
+Salesforce
+	- Triggering Actions
+	- Trigger Context Vaariables
+	
+In Progress
+	- Scenario Based questions on triggers
+	
+21/03/2023
+Salesforce
+	- Abhinav Sir Lecture 3 - Soql Queries
+	- Questions on SOQL queries and DMl Statements
+	- Scenario Based questions on Triggers
+
+In progress
+	- Database class
+
+
+22/03/2023
+Salesforce
+	- Database Class
+	- Trigger scenario questions
+	- Test Class Basics
+	
+In progress
+	- Trigger assignment by Mentor(First name, Last name and email Handler) 
+		> 2 Cases Completed out of 5 
+		
+23/03/2023
+Salesforce
+	- Trigger assignment by Mentor(First name, Last name and email Handler) Completed
+	- Abhinav Sir Session 3 - Apex Triggers
+	- Trigger scenario based questions
+	
+	
+24-03-2023
+Salesforce
+	- Admin Revision
+	- Apex Revision
+	
+	
+27-03-2023
+Salesforce
+	- Code to Count Number of Students related to a School
+	- Apex Trigger Questions and Concept
+	
+30-03-2023
+Salesforce
+	- Apex Trigger Questions
+	- Abhinav Sir Session#2
+Date - 31/03/2023
+Salesforce
+	- Trigger to Populate school Name Field on Students
+	- Trigger to update School Name Field on Students when class is reparented
+	- Trigger to Count the Number of Classes
+	
+	
+Date - 03/04/2023
+Salesforce
+	- Trigger to Count the Number of Classes
+	- Test Class For Static Ways to deal with collections
+	- Abhinav sir session #5 > Revisiting triggers
+							 > Test Classes
+							 
+In progress
+	- Test Class for Dynamic ways to deal with apex
+	
+Date - 04/04/2023
+Salesforce
+	- Test Class for Dynamic ways to deal with apex
+	- With and Without Sharing concept in apex classes
+	- Before Update triggerr on School to update number of classes using best approach
+	- Count Number of Students for a given School
+
+Date - 05/04/2023
+Salesforce
+	- After update trigger on Classes to count Number of Class field on School
+	- After insert, delete, undelete trigger on Classes to count Number of Class field on School
+	- After update, insert, delete, undelete trigger on Students to count Number of Students field on School
+	- understanding Smart Factory and Data Factory
+	
+In progress
+	- Batch Apex
+	
+Date - 06/04/2023
+Salesforce
+	- Test Class For School Trigger Helper
+	- Test Class For Class Trigger Helper
+	- Batch Apex (Abhinav Sir Assigment)
+	
+	
+Date - 10/04/2023
+Salesforce
+	- Batch apex
+	- Future Methods
+	- Abhinav Sir Lecture 
+		> Apex Sharing
+		> Future method
+		> Integration using heroku
+		
+		
+Date - 11/04/2023
+Salesforce
+	- Trigger to share access to school records
+	- Trigger to remove acces from school records
+	- Learning integration from trailhead
+	
+Date - 12/04/2023
+Salesforce
+	- Integration with third party api
+	- Class to get response from Trailhead api and store it on setup Object field 
+	- Test class of trigger to share access to school records
+	
+Date - 13/04/2023
+Salesforce
+	- Batch Apex
+	- Future method
+	- Queable jobs basics
+	- Test class for batch apex and future method
+	
+Date - 17/04/2023
+Salesforce
+	- Connecting Salesforce org with Portman
+	- Creating get and post rest api calls
+	- Abhinav Sir Session on integration 
+	- Trailhead module - Asynchronus Apex
+	
+	
+00D2w00000Mh3iA!ARsAQOkGTYgphGPUuTc.XcAipU_nlbYDiJdCdeAmP.HDT3YnDf.KdA9Vfzve1xBb6_VYN4XH6IWtNDXW_KHxUCdjlPV0UR4q	
+/cunning-shark-93c8p-dev-ed.trailblaze.my.
+
+
+Date - 18/04/200
+Salesforce
+	- Trailhead module to create account using rest callouts
+	- Trailhead module to create account using soap callouts
+	- integration using SoapApi
+	- Basic test class for integration
+	
+	
+	'0052w00000DzfsP'
+	
+	
+Date - 19/04/2023
+Salesforce
+	- Queable job to update 'Heroku Response Field' on user objects
+	- Queable job to create web service log object records
+	- Queueable chaining
+	
+Date - 20/04/2023
+Salesforce
+	- Queueable job to update field on metadata records
+	- Batch job to create web service log object records
+	- Abhinav Sir Integration session #3 Completed	
+
+
+https://login.salesforce.com/services/Soap/c/57.0/0DF2w000000Xjtl
+
+https://fexleservicesprivatelimi-6b-dev-ed.develop.my.salesforce.com/services/Soap/c/57.0/0DF2w000000Xjtl
+
+
+https://fexleservicesprivatelimi-6b-dev-ed.develop.my.salesforce.com/services/data/v56.0/sobjects/Web_Service_Log__c
+
+Date - 21/04/2023
+Salesforce
+	- Batch job to create web service log object records using rest API
+	- Trigger Questions
+	- Abhinav Sir Session on > Describe Apex
+							 > Best Practice to use Get Global Describe
+							 > @supressWarning Annotation
+
+
+Date - 24/04/2023
+Assessment Preparation
+	- Trigger Practice
+	- Test class Practice 
+	- Batch Practice
+
+
+Date - 25/04/2023
+Assessment Preparation
+	- Test class Practice 
+	- Batch Practice
+	- Abhinav Sir Session > Apex Inherited Sharing
+						  > Apex Email Services
+						  
+Date - 27/04/2023
+Assessment Preparation
+	- Describe Apex
+	- Batch Practice
+	- Triggerr Practice
+	
+Date - 28/04/2023
+Assessment by vijay Sir
+	- Trigger to populate picklist field on contact
+	- Batch to create a task under a active contact once
+	- Describe apex question to fetch all custom objects and custom fields
+	
+	
+Date - 01/05/2023
+Salesforce
+	- Trigger to not create more than 2 active contacts under an account.
+
+Trailhead Modules
+	- Apex Basics & Database
+	- Apex Triggers
+	- Apex Testing
+	
+	
+Date - 03/05/2022
+Salesforce
+	- Flow Basics
+	- Flow To Update Number Of Student and number Of Classes Counnt On School
+	- Flow on reparenting Of Student
+	
+	
+Date - 04/05/2002
+Salesforce
+	- Flow to check more than 2 active contacts on account
+	- Flow to populate status field on contact
+	- Vijay Sir session
+	
+Date - 08/05/2023
+Salesforce
+	- Subflow to update number of students
+	- Vijay Sir session
+	- Subflow for Flow trigger handler
+	
+Date - 10/05/2023
+Salesforce
+	- Flow Assessment Completed
+	- SubFlow for class Trigger handler
+	- SubFlow for reparenting on Student
+	
+	
+Date - 11/05/2023
+Salesforce
+	- Assessment - Create Contacts through account field
+	- Understanding Invocalble classes
+	- Trailhead Modules On Flow
+	
+Date - 12/05/2023
+Salesforce
+	- Wrapper class
+	- Flow Practice
+	- Autolanched Flows - Trailhead Module
+
+Date - 15/05/2023
+Salesforce
+	- Flow To Show reparenting of students
+	- Record Trigger flow to update 2 fields on school in a single Dml
+	- Flow to create a clone record of class record
+	- Screen Flow Session
+		> Basics Of Screen Flow 
+		
+
+Date - 16/05/2023
+Salesforce
+	- Screen Flow to count Number Of Classes on an school object
+	- Trigger Practice: to populate total opportunity and amount using map
+	- Abhinav Sir Session on Screen Flow
+		> How to pass recordId in screen Flow
+		> How to take input from screen 
+	
+	
+Date - 17/05/2023
+Salesforce
+	- LWC Session#1 
+		> History Of LWC 
+		> How LWC works with JavaScript
+	- LWC Basics
+	- Created a basic LWC Component
+	
+Date - 18/05/2023
+Salesforce
+	- Java Script code to validate a form details using regex
+	- LWC Session by Abhinav Sir #1
+		> How to customize a lightning component
+		> How to bind components with js
+	- Attended Vijay sir LWC Session #2
+		> How to get data using record id  through apex (sent through LWC)
+		> How to bind the resultant data on datatable
+	   
+	   
+	   
+	   
+Date - 19/05/2002
+Salesforce
+	- LWC Hooks
+	- How to send data from table to javascript in lwc
+	- Assignment #1 Completed 
+	- Wrapper class for Class Record, List Of Students and count Of Students
+	
+	
+Date - 22/05/2023
+Salesforce
+	- Create the deleted functionality in Assignment#1
+	- Updated the toggle functionality in Assessment#1
+	- use of refreshApex
+	- CombooBox of all the objects in the salesforce org
+	- Dynamic query to return data using lwc component 
+In Progress
+	- Mass Delete and Mass Update Functionality in Assessment#1
+	
+Date - 23/05/2023
+Salesforce
+	- Vijay Sir Session #3
+		> How to use spinner
+		> error Handling Wrapper Class in LWC
+		> lightning edit record form
+		> event stop propogation
+	- Quick Action to create new class using LWC edit record form on school Record
+	- Quick Action to create new Student using LWC edit record form on Class Record
+	
+In progress
+	- How to pass data from parent to child in LWC
+	- Mass Delete and Mass Update Functionality in Assignment#1
+	
+	
+Date - 24/05/2023
+Salesforce
+	- Apex Assessment By Vijay Sir
+		> Trigger to populate duplicate id field on contact if any duplicates found based on first name, last name, email
+		
+	- Calling child component on parent component
+	- Calling parent functions through child component using custom events
+	- Shifted the students table on a child component called it using a parent component
+	- Added Mass Delete and Mass Update Functionality in Assignment#1
+	
+in Progress
+	- Some Ui Changes on accordian
+
+Date - 25/05/2023
+Salesforce
+	- Added Spinner to the Assignment #1
+	- Some UI and Functionality changes on accordian component
+	- How to get fields data from object api name
+	- lwc component to get all
+    - the records based on object combobox and field multi select picklist
+	
+	
+Date - 26/05/2023
+Salesforce
+	- Vijay Sir LWC Session
+		- Where to use track
+		- try catch and finnaly method
+		- stensil method
+	- how to do error handling in lwc
+	- Responsive wrapper 
+in progress
+	- custom report builder
+	
+	
+Date - 29/05/2023	
+Salesforce
+	- Trigger Assessment
+	- Trigger to store the total amount of closed won opportunity
+	- Responsive wrapper 
+in progress
+	- custom report builder
+	
+Date - 30/05/2023
+Salesforce
+	- Maps in javascript
+	- how to handle string in custom report builder
+	- Getting operator data out of all data map
+in progress
+	- custom report builder
+	
+	
+Date - 31/05/2023
+Salesforce
+	- Vijay Sir session
+		- current user in lwc
+		- sibling communication lwc
+		- pub shub
+		- types of for loops
+	- utility class
+	- ui changes in custom report builder
+	
+	
+Date - 05/06/2023
+Salesforce
+	- Trigger to throw an error while creating more than a contact under a account
+	- Refining the custo  report builder
+	- Reviewing the test class for heroku app integration
+	- Abhinav Sir Lwc Session
+	
+	
+Date - 06/06/2023
+Salesforce
+	- Vijay Sir LWC Session
+		-Lightning out
+		-Life cycle hooks
+	- Assignment to know the conceptof life cycle hooks
+	- lightning header
+	- disconnected callback in child component
+	- discarding a lwc component in a button click.
+	
+	
+Date - 07/06/2023
+Salesforce
+	- Trigger to populate the lookup field on contact on the basis of type of account it is associated
+	- difference between isEmpty and size>0 check for collections
+	- customized the report builder to hold differrent input types for different field types
+	- customized the report builder to hold different operator option for every index
+	
+	
+Date - 08/06/2023
+Salesforce
+	- Flow Assessment
+		- Flow to populate the lookup field on contact on the basis of type of account it is associated
+	- LWC Assessment
+		- Make a custom lwc lookup component
+	- made the above lwc component generic
